@@ -4,6 +4,7 @@ sysout("Mymethod business logic");
 }
 
 main(){
+myMethod();
 Sysout("Hello git...!");
 }
 }
