@@ -1,10 +1,11 @@
 class MyClass{
 myMethod(){
-sysout("Mymethod business logic");
+system.out.println("Mymethod business logic");
 }
 
 main(){
 myMethod();
 Sysout("Hello git...!");
+//change 1 in main
 }
 }
