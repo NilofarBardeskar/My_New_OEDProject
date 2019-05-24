@@ -2,7 +2,9 @@ class MyClass{
 myMethod(){
 system.out.println("Mymethod business logic");
 }
-
+void initDate(){
+sysout("Init todays date");
+}
 main(){
 myMethod();
 Sysout("Hello git...!");
