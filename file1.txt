@@ -11,3 +11,7 @@ Sysout("Hello git...!");
 //change 1 in main
 }
 }
+string display(){
+sysout("Hi");
+return str;
+}
