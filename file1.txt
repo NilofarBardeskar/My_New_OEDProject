@@ -1,6 +1,7 @@
 class MyClass{
 myMethod(){
 system.out.println("Mymethod business logic");
+//soln of mymethod2
 }
 void initDate(){
 sysout("Init todays date");
@@ -14,4 +15,9 @@ Sysout("Hello git...!");
 string display(){
 sysout("Hi");
 return str;
+}
+
+void myMethod2(){
+//implement myMethod2
+
 }
